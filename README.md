@@ -1,7 +1,10 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/DeepLearning/master)
+
 # Deep Learning From Scratch
 
 ### Code and slides to accompany the online series of webinars: https://data4sci.com/deep-learning by Data For Science.
 
+### Run the code in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/DeepLearning/master)
 
 Over the past few years we have seen a convergence of two large scale trends: Big Data and Big Compute. The resulting combination of large amounts of data and abundant CPU (and GPU) cycles has brought to the forefront and highlighted the power of neural network techniques and approaches that were once thought to be too impractical. 
 
